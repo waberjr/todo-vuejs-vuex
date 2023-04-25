@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "afsd",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "wer",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "r",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
